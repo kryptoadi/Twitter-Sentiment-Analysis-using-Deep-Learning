@@ -146,7 +146,7 @@ The Twitter datasets are loaded into Python using Pandas.
 ```python
 import pandas as pd
 
-df = pd.read_csv("twitter_training.csv")
+tt = pd.read_csv("twitter_training.csv")
 ```
 
 ### 2. Text Preprocessing
